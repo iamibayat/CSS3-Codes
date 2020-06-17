@@ -1,0 +1,14 @@
+#first_h1
+{
+    color: red;
+}
+
+.fancy_border
+{
+    border: 5px dashed blue;
+}
+
+.yellow_text
+{
+    color: yellow;
+}
